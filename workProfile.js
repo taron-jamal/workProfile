@@ -15,8 +15,10 @@
 // Logs 'TaRon Jamal'
 console.log(myProfile.name);
 
+
 // Pass object reference to the function.
 workProfile(myProfile);
+
 
 // Log's 'Toyota' as the value of the 'name' property of the object, as changed to by the function.
 console.log(myProfile.name);
