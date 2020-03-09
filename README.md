@@ -1,0 +1,2 @@
+# workProfile
+JavaScript function example.
