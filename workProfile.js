@@ -20,5 +20,5 @@ console.log(myProfile.name);
 workProfile(myProfile);
 
 
-// Log's 'Web Developer I' as the value of the 'name' property of the object, as changed to by the function.
+// Logs 'Web Developer I' as the value of the 'name' property of the object, as changed to by the function.
 console.log(myProfile.name);
