@@ -1,6 +1,6 @@
 // Declare the function 'workProfile'.
   function workProfile() {
-    theOject.role = "Web Developer I";
+    theObject.role = "Web Developer I";
   }
 
 
@@ -20,5 +20,5 @@ console.log(myProfile.name);
 workProfile(myProfile);
 
 
-// Logs 'Web Developer I' as the value of the 'name' property of the object, as changed to by the function.
+// Logs 'Web Developer I' as the value of the 'name' property of the object, as changed by the function.
 console.log(myProfile.name);
